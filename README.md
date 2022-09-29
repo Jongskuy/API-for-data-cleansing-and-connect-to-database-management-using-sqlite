@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tanupitra
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 📫 Reach me at https://www.linkedin.com/in/tanupitra/
